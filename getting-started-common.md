@@ -16,13 +16,6 @@ Getting Started는 KAS를 처음 사용하는 여러분을 돕기 위한 가이�
 
 
 
-
-
-1. sdsd
-2. sdsd
-3. sdsdfsdf
-4. sdfsdf
-5. 
 ## Get Ready!
 
 ### Sign Up

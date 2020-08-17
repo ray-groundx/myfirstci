@@ -5,4 +5,6 @@
 * [Getting Started: Node](getting-started-node.md)
 * [Getting Started: Wallet](getting-started-wallet.md)
 * [Getting Started: TH](getting-started-th.md)
+* [ToS Sample](https://docs.klaytn.com/misc/terms-of-use)
+* [Terms of Use](untitled.md)
 
