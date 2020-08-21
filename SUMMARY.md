@@ -8,3 +8,7 @@
 * [ToS Sample](https://docs.klaytn.com/misc/terms-of-use)
 * [Terms of Use](untitled.md)
 
+## test group
+
+* [ReDoc Interactive Demo](test-group/test.md)
+
