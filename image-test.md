@@ -39,7 +39,3 @@ echo 'You got to trust me on this, I saved the world'
 
 
 
-![](.gitbook/assets/2020-08-21-4.51.17.png)
-
-
-
