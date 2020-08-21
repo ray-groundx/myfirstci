@@ -26,9 +26,7 @@ Once you're strong enough, save the world:
 
 ![](.gitbook/assets/2020-08-21-4.29.56.png)
 
-
-
-![](.gitbook/assets/2020-08-21-4.27.22.png)
+![](.gitbook/assets/2020-08-21-4.35.45.png)
 
 ![](.gitbook/assets/2020-08-21-4.20.33.png)
 
