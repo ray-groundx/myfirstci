@@ -12,3 +12,7 @@
 
 * [ReDoc Interactive Demo](test-group/test.md)
 
+---
+
+* [image test](image-test.md)
+
