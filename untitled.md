@@ -6,7 +6,9 @@ We may make \(but are not obligated to make\) the source code of Klaytn Blockcha
 
 
 
-[https://youtu.be/b0Gemca44Xg](https://youtu.be/b0Gemca44Xg)
+{% embed url="https://youtu.be/b0Gemca44Xg" %}
+
+
 
 
 
