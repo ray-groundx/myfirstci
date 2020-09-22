@@ -4,6 +4,12 @@
 
 We may make \(but are not obligated to make\) the source code of Klaytn Blockchain Network Platform \("Platform"\), the software on the Platform, etc. for download as open source software. If you use this open source software, you agree to be bound by and comply with any license that applies to this open source software. You will not indicate that you are associated with us in connection with your use, modifications or distributions of this open source software.
 
+
+
+{% embed url="https://drive.google.com/file/d/1uAOI2dOGzWFHA6ZIfkO60j-iCeDNmnN2/view?usp=sharing" %}
+
+
+
 ## 2. Services Provided on the Platform <a id="2-services-provided-on-the-platform"></a>
 
 The Platform is a combination of peer-to-peer subnetworks of nodes transmitting transactions and blocks to execute value transfers and run smart contracts. The Core Cell Network \("CCN"\), which is one of the subnetworks that constitute the Platform, verifies and executes transactions that occur on the Platform. The CCN is operated by Klaytn Governance Council, which is a collective group of Core Cell Operators, and Klaytn is not directly involved in any services that are provided in or individual transactions that occur on the Platform.
